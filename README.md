@@ -16,6 +16,26 @@ Here are some ideas to get you started:
 -->
 
 # 文档
+OS
+* https://github.com/mushuanli/wsue/blob/master/ops/debian.md
+* https://github.com/mushuanli/wsue/blob/master/ops/docker.md
+* https://github.com/mushuanli/wsue/blob/master/ops/linux_powersave.md
+* https://github.com/mushuanli/wsue/blob/master/ops/office
+* https://github.com/mushuanli/wsue/blob/master/ops/schroot.txt
+* https://github.com/mushuanli/wsue/blob/master/ops/wine.txt
+K8s
+* https://github.com/mushuanli/wsue/blob/master/ops/kubernetes_install.md
+* https://github.com/mushuanli/wsue/blob/master/ops/fluent-bit-in-k8s.md
+* https://github.com/mushuanli/wsue/blob/master/ops/k8ssim_kind.yaml
+* https://github.com/mushuanli/wsue/blob/master/ops/kubernetes_debug.md
+* 
+Cloud
+* https://github.com/mushuanli/wsue/blob/master/ops/create_ova_from_iso.md
+* https://github.com/mushuanli/wsue/blob/master/ops/local_machine_to_ami.md
+* https://github.com/mushuanli/wsue/blob/master/ops/local_machine_to_azure%E2%80%94%E2%80%94image.md
+* https://github.com/mushuanli/wsue/blob/master/ops/manage_esxi_by_govc.md
+* 
+Dev
 * ios开发和mac系统环境安装软件等问题指南 https://github.com/mushuanli/wsue/blob/master/dev/ios.md
 * bash编程 https://github.com/mushuanli/wsue/blob/master/dev/bash_program.md
 
@@ -34,6 +54,9 @@ Here are some ideas to get you started:
 * fluentbit 部署文件 https://github.com/mushuanli/wsue/blob/master/dev/configmap-fluentbit2fluentd.yaml
 * 编译 valgrind脚本  https://github.com/mushuanli/wsue/blob/master/dev/build_valgrind.sh
 * 拨号上网脚本  https://github.com/mushuanli/wsue/blob/master/config/vpn.sh
+* https://github.com/mushuanli/wsue/blob/master/ops/install_centos.sh
+* https://github.com/mushuanli/wsue/blob/master/ops/wordpress_docker.sh
+* https://github.com/mushuanli/wsue/blob/master/ops/docker-private-registry-compose.yml
 
 ## 半成品
 * letcode刷题c语言实现 https://github.com/mushuanli/letcode
