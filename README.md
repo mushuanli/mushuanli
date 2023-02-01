@@ -17,24 +17,27 @@ Here are some ideas to get you started:
 
 # 文档
 OS
-* https://github.com/mushuanli/wsue/blob/master/ops/debian.md
-* https://github.com/mushuanli/wsue/blob/master/ops/docker.md
-* https://github.com/mushuanli/wsue/blob/master/ops/linux_powersave.md
-* https://github.com/mushuanli/wsue/blob/master/ops/office
-* https://github.com/mushuanli/wsue/blob/master/ops/schroot.txt
-* https://github.com/mushuanli/wsue/blob/master/ops/wine.txt
+* debian相关操作，包括软件、安装配置 https://github.com/mushuanli/wsue/blob/master/ops/debian.md
+* docker入门配置 https://github.com/mushuanli/wsue/blob/master/ops/docker.md
+* Linux省电模式 https://github.com/mushuanli/wsue/blob/master/ops/linux_powersave.md
+* office软件问题解决 https://github.com/mushuanli/wsue/blob/master/ops/office
+* 怎样建立chroot环境 https://github.com/mushuanli/wsue/blob/master/ops/schroot.txt
+* wine 软件配置 https://github.com/mushuanli/wsue/blob/master/ops/wine.txt
+
 K8s
-* https://github.com/mushuanli/wsue/blob/master/ops/kubernetes_install.md
-* https://github.com/mushuanli/wsue/blob/master/ops/fluent-bit-in-k8s.md
-* https://github.com/mushuanli/wsue/blob/master/ops/k8ssim_kind.yaml
-* https://github.com/mushuanli/wsue/blob/master/ops/kubernetes_debug.md
-* 
+* 安装 k8s https://github.com/mushuanli/wsue/blob/master/ops/kubernetes_install.md
+* 在k8s上安装 fluent-bit https://github.com/mushuanli/wsue/blob/master/ops/fluent-bit-in-k8s.md
+* 在单机环境中建立 kind, 模拟运行k8s https://github.com/mushuanli/wsue/blob/master/ops/k8ssim_kind.yaml
+* 定位 k8s问题 https://github.com/mushuanli/wsue/blob/master/ops/kubernetes_debug.md
+
+
 Cloud
-* https://github.com/mushuanli/wsue/blob/master/ops/create_ova_from_iso.md
-* https://github.com/mushuanli/wsue/blob/master/ops/local_machine_to_ami.md
-* https://github.com/mushuanli/wsue/blob/master/ops/local_machine_to_azure%E2%80%94%E2%80%94image.md
-* https://github.com/mushuanli/wsue/blob/master/ops/manage_esxi_by_govc.md
-* 
+* 从ISO建立OVA映像  https://github.com/mushuanli/wsue/blob/master/ops/create_ova_from_iso.md
+* 把本机复制成 AWS AMI https://github.com/mushuanli/wsue/blob/master/ops/local_machine_to_ami.md
+* 把本机复制成 AZURE IMAGE https://github.com/mushuanli/wsue/blob/master/ops/local_machine_to_azure%E2%80%94%E2%80%94image.md
+* 通过GOVC管理ESXi https://github.com/mushuanli/wsue/blob/master/ops/manage_esxi_by_govc.md
+
+
 Dev
 * ios开发和mac系统环境安装软件等问题指南 https://github.com/mushuanli/wsue/blob/master/dev/ios.md
 * bash编程 https://github.com/mushuanli/wsue/blob/master/dev/bash_program.md
@@ -54,9 +57,9 @@ Dev
 * fluentbit 部署文件 https://github.com/mushuanli/wsue/blob/master/dev/configmap-fluentbit2fluentd.yaml
 * 编译 valgrind脚本  https://github.com/mushuanli/wsue/blob/master/dev/build_valgrind.sh
 * 拨号上网脚本  https://github.com/mushuanli/wsue/blob/master/config/vpn.sh
-* https://github.com/mushuanli/wsue/blob/master/ops/install_centos.sh
-* https://github.com/mushuanli/wsue/blob/master/ops/wordpress_docker.sh
-* https://github.com/mushuanli/wsue/blob/master/ops/docker-private-registry-compose.yml
+* 在chroot中安装centos环境 https://github.com/mushuanli/wsue/blob/master/ops/install_centos.sh
+* 以docker方式运行wordpress https://github.com/mushuanli/wsue/blob/master/ops/wordpress_docker.sh
+* 本地建立docker私有仓库 https://github.com/mushuanli/wsue/blob/master/ops/docker-private-registry-compose.yml
 
 ## 半成品
 * letcode刷题c语言实现 https://github.com/mushuanli/letcode
