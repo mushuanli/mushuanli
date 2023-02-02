@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # 文档
 OS
+* eBPF介绍 https://github.com/mushuanli/wsue/blob/master/dev/ebpf/README.md
 * debian相关操作，包括软件、安装配置 https://github.com/mushuanli/wsue/blob/master/ops/debian.md
 * docker入门配置 https://github.com/mushuanli/wsue/blob/master/ops/docker.md
 * Linux省电模式 https://github.com/mushuanli/wsue/blob/master/ops/linux_powersave.md
