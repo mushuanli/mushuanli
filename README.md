@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# AI
+* chatGPT prompt 介绍： https://github.com/mushuanli/wsue/blob/master/dev/gpt/prompt.md
 # 文档
 OS
 * eBPF介绍与编程 https://github.com/mushuanli/wsue/blob/master/dev/ebpf/README.md
