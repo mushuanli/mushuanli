@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 * CC-Proxy, 网页端配置 claudecode 模型，支持多个供应商，并支持同时使用不同供应商，实时计费：https://github.com/mushuanli/cc-proxy
 * Anki-helper, ai制作图文并茂的英语背书卡片: https://github.com/mushuanli/anki-helper
 * Mind OS, 思维元数据+ AI大脑，构思成为个人助理并且可以将资料、思维方式变成外挂： https://github.com/mushuanli/itookit
+* 8821cu USB WIFI linux 驱动，支持最新Linux内核: https://github.com/mushuanli/8821cu-20210916
 # 文档
 OS
 * eBPF介绍与编程 https://github.com/mushuanli/wsue/blob/master/dev/ebpf/README.md
