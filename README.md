@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # AI相关
+* Deepseek harness terminal, 提供本地cli运行模式，方便 ssh 操作（特别是 ssh + tmux + 跳板机实现手机远程操作）: https://github.com/mushuanli/dsht 
 * Mind OS,  新信息文件系统（可建构在浏览器/ 本地文件系统上） + 抽象 LLM DAG + 信息管理功能，最终成为个人 AI 助理： https://github.com/mushuanli/itookit
 * CC-Proxy,  claudecode 代理，方便切换不同供应商/不同模型并实时计费， 同时可以分析和跟踪 claudecode交互流程， 同时codex等（未验证）：https://github.com/mushuanli/cc-proxy
 * Anki-helper, ai制作图文并茂的英语背书Anki卡片: https://github.com/mushuanli/anki-helper
