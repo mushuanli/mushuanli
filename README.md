@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # AI相关
-* Deepseek harness terminal, 提供本地cli运行模式，方便 ssh 操作（特别是 ssh + tmux + 跳板机实现手机远程操作）: https://github.com/mushuanli/dsht 
+* Deepseek harness terminal, 提供本地cli运行模式，方便 ssh 操作（特别是 ssh + tmux + 跳板机实现手机远程操作）,并且进行了 agent loop, handoff等扩展: https://github.com/mushuanli/dsht 
 * Mind OS,  新信息文件系统（可建构在浏览器/ 本地文件系统上） + 抽象 LLM DAG + 信息管理功能，最终成为个人 AI 助理： https://github.com/mushuanli/itookit
-* CC-Proxy,  claudecode 代理，方便切换不同供应商/不同模型并实时计费， 同时可以分析和跟踪 claudecode交互流程， 同时codex等（未验证）：https://github.com/mushuanli/cc-proxy
+* CC-Proxy,  claudecode 代理，方便切换不同供应商/不同模型并实时计费， 同时可以分析和跟踪 claudecode交互流程：https://github.com/mushuanli/cc-proxy
 * Anki-helper, ai制作图文并茂的英语背书Anki卡片: https://github.com/mushuanli/anki-helper
 * fd 扩展, -R 递归指定目录/文件列表， -N 排除指定目录/文件列表, -v 显示命令 & 文件路径信息, https://github.com/sharkdp/fd/
 * 8821cu USB WIFI linux 驱动，支持最新Linux 7.x内核: https://github.com/mushuanli/8821cu-20210916
