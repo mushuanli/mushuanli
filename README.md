@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # AI相关
 * [Deepseek harness terminal](https://github.com/mushuanli/dsht): 提供本地cli运行模式，方便 ssh 操作,并且进行了计费、handoff、agent loop等定制扩展, 探究 harness 二次定制
-* [Mind OS](https://github.com/mushuanli/itookit): [直接体验](https://mushuanli.github.io/itookit/),  信息文件系统（可建构在浏览器/ 本地文件系统上） + LLM实现 +  LLM DAG 实现, 探究 LLM+Harness + DAG原理
+* [Mind OS](https://mushuanli.github.io/itookit/),  信息文件系统（可建构在浏览器/ 本地文件系统上） + LLM实现 +  LLM DAG 实现, 探究 LLM+Harness + DAG原理
 * [CC-Proxy](https://github.com/mushuanli/cc-proxy): claudecode 代理proxy，实现proxy端多模型混搭用于控制成本，还提供计费和session sumarize 功能用于监测 harness 工作状态和成本控制
 * [Anki-helper](https://github.com/mushuanli/anki-helper): ai制作图文并茂的英语背书Anki卡片, 将AI（llm, 文生图）与tools 集成完成产品
 * [fd 扩展](https://github.com/sharkdp/fd/): 扩展fd功能，手工AI Coding时对context 进行精确控制 
