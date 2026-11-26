@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 # AI相关
 * [Deepseek harness terminal](https://github.com/mushuanli/dsht): 实现 dsh 的 cli 运行模式并增加计费、定制 prompt、agentic loop 等扩展，并可以进一步针对 dsh 进行深度定制。
-* [Mind OS](https://mushuanli.github.io/itookit/),  信息流系统, 集中管理信息，使用数字分身、harness、DAG等实现主动、被动信息处理功能。包括扩展文件系统(支持assetdir, 数据库文件,tag), llm chat/harness/DAG 及数字分身.
-* [个人信息Agent](https://github.com/mushuanli/pi-agent), MindOS 的个人智能节点，通过 MCP 接口将本地信息集成到 MindOS.
+* [Nest OS](https://github.com/nest-agentos),[Demo](https://nest-agentos.github.io/NestOS/)  个人智能系统, 集中管理信息，使用数字分身、harness、DAG等实现主动、被动信息处理功能。包括扩展文件系统(支持assetdir, 数据库文件,tag), llm chat/harness/DAG 及数字分身， 以及kanban, 可以实现任务化管理功能。
+* [智能信息格](https://github.com/nest-agentos/cells), 将信息分格存放和处理，使用 [firecracker](https://github.com/nest-agentos/fc-server) 保护,通过nestos 控制harness访问/操作信息.
 
-* [CC-Proxy](https://github.com/mushuanli/cc-proxy): claudecode proxy，在 proxy端观察并控制多个 claudecode 会话运行状态，同时提供计费和session sumarize 等信息。
+* [CC-Proxy](https://github.com/mushuanli/cc-proxy): 协议转换器，支持对接/切换多个上游供应商协议，并提供简明信息控制会话状态，同时提供计费和session sumarize 等信息。
 * [Anki-helper](https://github.com/mushuanli/anki-helper): 使用工作流串联文本生成、图片生成、音频生成实现 多媒体 anki 卡片制作。
 * [fd 扩展](https://github.com/sharkdp/fd/): 扩展fd功能实现排除、指定范围等功能。
 * [https://github.com/mushuanli/8821cu-20210916]: 移植开源8821cu USB WIFI linux 驱动到最新Linux 7.x内核
