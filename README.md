@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # AI相关
 * [Deepseek harness terminal](https://github.com/mushuanli/dsht): 实现 dsh 的 cli 运行模式并增加计费、定制 prompt、agentic loop 等扩展，并可以进一步针对 dsh 进行深度定制。
-* [Nest OS](https://github.com/nest-agentos),[Demo](https://nest-agentos.github.io/NestOS/)  个人智能系统, 集中管理信息，使用数字分身、harness、DAG等实现主动、被动信息处理功能。包括扩展文件系统(支持assetdir, 数据库文件,tag), llm chat/harness/DAG 及数字分身， 以及kanban, 可以实现任务化管理功能。
+* [Nest OS](https://github.com/nest-agentos),（在线[Demo](https://nest-agentos.github.io/NestOS/) 使用浏览器的IndexedDB模拟文件系统，使用 AI 需要在 工具箱 模型 里面提供自己的key)  个人智能系统, 集中管理信息，使用数字分身、harness、DAG等实现主动、被动信息处理功能。包括扩展文件系统(支持assetdir, 数据库文件,tag), llm chat/harness/DAG 及数字分身， 以及kanban, 可以实现任务化管理功能。
 * [智能信息格](https://github.com/nest-agentos/cells), 将信息分格存放和处理，使用 [firecracker](https://github.com/nest-agentos/fc-server) 保护,通过nestos 控制harness访问/操作信息.
 
 * [CC-Proxy](https://github.com/mushuanli/cc-proxy): 协议转换器，支持对接/切换多个上游供应商协议，并提供简明信息控制会话状态，同时提供计费和session sumarize 等信息。
